@@ -16,7 +16,7 @@
 
 ### How Python fits into DevSecOps:
 
-If you were to go onto a client site and be givne access to a pythogn app with the aim of securing it.
+If you were to go onto a client site and be given access to a python app with the aim of securing it.
 
 In order to understand this code, we need to know Python.
 
@@ -59,3 +59,47 @@ print("Hello " + name)
 
 # Activity
 #Have a 15 minute break```
+
+
+#Day 2
+
+##Topics (from Trello)
+- Data Types and Operators
+- Python Collections
+
+
+##Operators
+**Arithmetic Operators**
+  `+ - / *`
+##Comparison Operators
+`> < == != `
+
+##More Info:
+
+## Arithmetic Operators
+
+
+
+| Operand | Description | Example |
+|:---------: |:----------------------------: |:--------: |
+| + | add two operands (variables) together| X + y + 2 |
+| - | subtract two operands (variables) | X - y - 2 |
+| * | multiply two operands (variables) | X - y - 2 |
+| / | divide two operands (variables) | X - y - 2 |
+| % | Modulus - remainder of the division of left operand by the right | X - y - 2 |
+| + | add two operands (variables) together| X + y + 2 |
+
+
+
+## Comparison Operators
+
+
+
+| Operand | Description | Example |
+|:---------: |:----------------------------: |:--------: |
+| > | True if left operand is greater than the right| x > y |
+| < | True if left operand is less than the right| x < y |
+| == | True if both operands are equal | x == y |
+| != | True if both operands are equal | x != y |
+| >= | True if left operand is greater than or equal to the right| x >= y |
+| <= | True if left operand is less than or equal to the right| x <= y |
