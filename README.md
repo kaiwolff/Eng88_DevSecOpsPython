@@ -103,3 +103,12 @@ print("Hello " + name)
 | != | True if both operands are equal | x != y |
 | >= | True if left operand is greater than or equal to the right| x >= y |
 | <= | True if left operand is less than or equal to the right| x <= y |
+
+
+
+#Now: Activity - add this to documentation with own notes.
+#Record video of yourself:
+    #What is the role of DevSecOps
+    #Why Python and how does it fit into DevSecOps
+    #Why DevSecOps?
+
