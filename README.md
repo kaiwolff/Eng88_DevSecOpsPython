@@ -78,7 +78,7 @@ print("Hello " + name)
 
 ## Arithmetic Operators
 
-
+```
 
 | Operand | Description | Example |
 |:---------: |:----------------------------: |:--------: |
@@ -104,11 +104,8 @@ print("Hello " + name)
 | >= | True if left operand is greater than or equal to the right| x >= y |
 | <= | True if left operand is less than or equal to the right| x <= y |
 
+##Further Notes
 
+Git Notes - available in git_notes.md
 
-#Now: Activity - add this to documentation with own notes.
-#Record video of yourself:
-    #What is the role of DevSecOps
-    #Why Python and how does it fit into DevSecOps
-    #Why DevSecOps?
-
+Notes on Bash Commands - see useful_bash_commands.md
