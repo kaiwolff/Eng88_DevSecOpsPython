@@ -1,4 +1,4 @@
-#Python
+# Python
 ## Python installation 3.7 or above
 ### Pycharm set up
 #### Documentation with README.md to store on Github
@@ -24,7 +24,7 @@ If we do not understand the code (not necessarily at the dev level), how could w
 
 Knowing at least one OOP language is vital, this can be taken across to other languages and apply security measures.
 
-##Running Notes - Lesson on variables
+## Running Notes - Lesson on variables
 
 -Variables work as a placeholder to store data.
 - Main types are strings, Booleans, Numbers (integers and floats)
