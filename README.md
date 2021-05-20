@@ -104,7 +104,7 @@ print("Hello " + name)
 | >= | True if left operand is greater than or equal to the right| x >= y |
 | <= | True if left operand is less than or equal to the right| x <= y |
 
-##Further Notes
+## Further Notes
 
 Git Notes - available in git_notes.md
 
