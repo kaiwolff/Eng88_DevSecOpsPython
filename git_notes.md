@@ -15,7 +15,7 @@
 
 ## Setting Up A New Repository
 
-- Click "New Repository"
+- On your github, click "New Repository"
 - Can now choose whether to add soem basic files on github, Generally, preferable to do this yourself.
   
 - Throughout this, remember to use ``git status`` to check which files are getting committed, and which files have been edited.
