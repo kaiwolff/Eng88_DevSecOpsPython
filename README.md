@@ -84,10 +84,10 @@ print("Hello " + name)
 |:---------: |:----------------------------: |:--------: |
 | + | add two operands (variables) together| X + y + 2 |
 | - | subtract two operands (variables) | X - y - 2 |
-| * | multiply two operands (variables) | X - y - 2 |
-| / | divide two operands (variables) | X - y - 2 |
-| % | Modulus - remainder of the division of left operand by the right | X - y - 2 |
-| + | add two operands (variables) together| X + y + 2 |
+| * | multiply two operands (variables) | X * y|
+| / | divide two operands (variables) | X / y |
+| % | Modulus - remainder of the division of left operand by the right | X % y |
+
 
 
 
